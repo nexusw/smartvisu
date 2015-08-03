@@ -1,0 +1,3 @@
+[submodule "pages/winkler"]
+	path = pages/winkler
+	url = https://github.com/nexusw/smartvisu-pages-winkler.git
